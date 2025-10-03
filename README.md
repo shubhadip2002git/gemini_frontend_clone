@@ -160,3 +160,9 @@ The application is fully functional with all required features implemented. The 
 - OTP verification accepts any 6-digit code in development mode
 - All date/time handling uses browser's local timezone
 - Dark mode preference is not persisted (resets on page reload)
+
+## Live Deployment & Repository
+
+- **GitHub Repository Link:** [https://github.com/shubhadip2002git/gemini_frontend_clone](https://github.com/shubhadip2002git/gemini_frontend_clone)  
+
+- **Live Deployment Link (Vercel):** [https://gemini-frontend-clone-shubha2002.vercel.app](https://gemini-frontend-clone-shubha2002.vercel.app)
